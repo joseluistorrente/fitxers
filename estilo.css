@@ -1,0 +1,24 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(imagenes/fondo.png);
+    padding: 20px
+}
+h1{
+    color: #f44336;
+    text-align:center ;
+    border:4px dashed #f44336 ;
+    background-color: white;
+    padding: 5px;
+}
+ul nav{
+    list-style: none;
+    text-align: center;
+}
+li{
+    display: inline-block;
+    margin: 15px;
+    padding: 10px;
+    background-color: #f44336;
+    color: white;
+  border:2px #f44336;
+}
